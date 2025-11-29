@@ -9,10 +9,10 @@ no noise. no extras. just a single, focused transformation.
 
 ## features
 
-* **single-purpose core** — one function that does one thing extremely well
-* **predictable output** — deterministic, stable behavior
-* **zero dependencies** — lightweight and portable
-* **clean api** — designed to be readable at a glance
+* **single-purpose core** — one function that does one thing extremely well.
+* **predictable output** — deterministic, stable behavior.
+* **zero dependencies** — lightweight and portable.
+* **clean api** — designed to be readable at a glance.
 
 ---
 
